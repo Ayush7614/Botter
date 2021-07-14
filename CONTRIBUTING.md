@@ -18,7 +18,7 @@ To start contributing, follow the below guidelines:
 
 **1.** Fork [this](https://github.com/Ayush7614/Botter) repository.
 
-<div align="center">![](github_assets/Fork.jpg)<div>
+<div align="center">![](github_assets/Fork.jpg)</div>
 
 **2.** Clone your forked copy of the project.
 ```
@@ -73,7 +73,7 @@ git checkout -b <your_branch_name>
 
 - Preview your changes and test them properly before proceding ahead.
 
-<div align ="center">![](coding.gif)<div>
+<div align ="center">![](coding.gif)</div>
 
 - Make a small clip or take screenshots before and after making changes.
 
@@ -110,4 +110,4 @@ git push -u origin <your_branch_name>
 
 **9.**  Voila ❗ You have made a PR to the Botter project 💥 . Sit back patiently and relax while the project maintainers review your PR.
 
-<div align ="center">![](PR_done.gif)<div>
+<div align ="center">![](PR_done.gif)</div>
