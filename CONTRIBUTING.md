@@ -18,8 +18,8 @@ To start contributing, follow the below guidelines:
 
 **1.** Fork [this](https://github.com/Ayush7614/Botter) repository.
 
-<div align="center">![](github_assets/Fork.jpg)</div>
-
+<div align="center">![](./github_assets/Fork.jpg)</div>
+<br>
 **2.** Clone your forked copy of the project.
 ```
 git clone --depth 1 https://github.com/<your_user_name>/Botter.git
@@ -43,7 +43,7 @@ git pull upstream master
 <br>
 
 - Comment on any existing [issue(s)](https://github.com/Ayush7614/Botter/issues) raised by project maintainers. Otherwise raise a [new issue](https://github.com/Ayush7614/Botter/issues/new/choose).
-
+<br>
 >### Guidelines for raising a new issue:
 >-   Each issue should have an appropriate and short title.
 >
@@ -54,7 +54,7 @@ git pull upstream master
 >-   Feel free to suggest your opinions on the already raised issues.
 >  
 >-   All participants are welcomed to suggest new features/bug fixes/improvements and raise new issues for those. However, the assignment would be done once approved by either of the project maintainers or the mentors.
-
+<br>
 ## B. Contributing to the project
 -   Once the project maintainer(s)/mentor(s) have reviewed the issue/assigned you the issue. Start working on the changes.
 
@@ -73,7 +73,7 @@ git checkout -b <your_branch_name>
 
 - Preview your changes and test them properly before proceding ahead.
 
-<div align ="center">![](coding.gif)</div>
+<div align ="center">![](./github_assets/coding.gif)</div>
 
 - Make a small clip or take screenshots before and after making changes.
 
@@ -91,14 +91,14 @@ git push -u origin <your_branch_name>
 ```
 **6.** To create a pull request, click on `compare and pull requests`.Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
-<div align="center">![](compare_and_pull_request.jpg)</div>
+<div align="center">![](./github_assets/compare_and_pull_request.jpg)</div>
 
 **7.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
 **8.** Click on `Create Pull Request`.
 
-<div align="center">![](PR_describe.jpg)</div>
-
+<div align="center">![](./github_assets/PR_describe.jpg)</div>
+<br>
 >## Guidelines for raising a pull request:
 >-   Each pull request should have an appropriate and short title.
 >  
@@ -106,8 +106,8 @@ git push -u origin <your_branch_name>
 >    
 >-   Make sure to refer the respective issue in the respective PR using phrases like  `Resolves #issue_number` ,  `Closes #issue_number` or `Fixes #issue number`. 
 >-   Attach a screenshot/clip of the change(s) made.
-
+<br>
 
 **9.**  Voila ❗ You have made a PR to the Botter project 💥 . Sit back patiently and relax while the project maintainers review your PR.
 
-<div align ="center">![](PR_done.gif)</div>
+<div align ="center">![](./github_assets/PR_done.gif)</div>
